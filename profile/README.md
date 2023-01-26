@@ -1,0 +1,3 @@
+The official GitHub organization of vocal synthesis development company Alder S.
+
+ALL INFORMATION WITHIN IS CLASSIFIED. PLEASE DO NOT SHARE WITHOUT EXPRESS PERMISSION FROM AN ALDER S EMPLOYEE.
