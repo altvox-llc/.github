@@ -1,1 +1,1 @@
-The official GitHub organization of vocal synthesis development company altvox.
+The official GitHub organization of vocal synthesis development company Altvox, a developer of Maghni and Maghni libraries.
